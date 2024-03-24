@@ -25,7 +25,7 @@
   },
   "vector_database": {
     "provider": "qdrant",
-    "collection_name": "demo_vecs"
+    "collection_name": "coll"
   },
   "app": {
     "max_logs": 100
