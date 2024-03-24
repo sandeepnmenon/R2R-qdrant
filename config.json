@@ -24,7 +24,8 @@
     "provider": "sciphi"
   },
   "vector_database": {
-    "provider": "qdrant"
+    "provider": "qdrant",
+    "collection_name": "demo_vecs"
   },
   "app": {
     "max_logs": 100
